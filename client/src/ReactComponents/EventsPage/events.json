@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "63bfd32adf5909faf9537148"
+  },
+  "eventName": "Big Data",
+  "eventDescription": "A Hands on workshop on Big-Data and Hadoop",
+  "imgUrl": "bigData",
+  "totalSeats": 40,
+  "entryFees": 80,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bfd386df5909faf9537149"
+  },
+  "eventName": "Hardware Hackathon",
+  "eventDescription": "Hands-on hardware competition",
+  "imgUrl": "img2",
+  "totalSeats": 50,
+  "entryFees": 200,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bfd3a7df5909faf953714a"
+  },
+  "eventName": "Digital Vibes",
+  "eventDescription": "A cryptic hunt of digital assets competition",
+  "imgUrl": "digitalVibes",
+  "totalSeats": 100,
+  "entryFees": 100,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bfd3c4df5909faf953714b"
+  },
+  "eventName": "Li-On Batteries",
+  "eventDescription": "A webinar on electric revolution in automobiles",
+  "imgUrl": "lithionBatteries",
+  "totalSeats": 80,
+  "entryFees": 0,
+  "__v": 0
+}]

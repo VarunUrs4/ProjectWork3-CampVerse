@@ -1,0 +1,218 @@
+[{
+  "_id": {
+    "$oid": "63bfd514df5909faf9537152"
+  },
+  "courseName": " Artificial Intelligence",
+  "pdfFilesArray": [
+    {
+      "fileName": "unit1",
+      "url": "https://drive.google.com/file/d/1rQS02gfgXs6QSqhdupcWTgTW_iGX0Cry/view?usp=share_link"
+    },
+    {
+      "fileName": "unit2",
+      "url": "https://drive.google.com/file/d/1_pEEIANOIXI3AusjcQbcYsJRMY23hksZ/view?usp=share_link"
+    },
+    {
+      "fileName": "unit3",
+      "url": "https://drive.google.com/file/d/1ctL_o_ObgHp2_Cb5qGTqMjMq2mz28KiU/view?usp=share_link"
+    },
+    {
+      "fileName": "unit4",
+      "url": "https://drive.google.com/file/d/1mZM6fxSXYMQjiwJFksD9bG_j958a5xoW/view?usp=share_link"
+    },
+    {
+      "fileName": "unit5",
+      "url": "https://docs.google.com/presentation/d/1R0_umsGWxFHsnZGT27D7tDTh36JHNuS-/edit?usp=share_link&ouid=101995589758722513198&rtpof=true&sd=true"
+    },
+    {
+      "fileName": "Text Book",
+      "url": "https://drive.google.com/file/d/1bbuN5yDE53cgvxmJPX_P-ZNk7Y7uJAQi/view?usp=share_link"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63bfd668df5909faf9537153"
+  },
+  "courseName": "Advanced Algorithms",
+  "pdfFilesArray": [
+    {
+      "fileName": "unit1",
+      "url": "https://drive.google.com/file/d/1rQS02gfgXs6QSqhdupcWTgTW_iGX0Cry/view?usp=share_link"
+    },
+    {
+      "fileName": "unit2",
+      "url": "https://drive.google.com/file/d/1_pEEIANOIXI3AusjcQbcYsJRMY23hksZ/view?usp=share_link"
+    },
+    {
+      "fileName": "unit3",
+      "url": "https://drive.google.com/file/d/1ctL_o_ObgHp2_Cb5qGTqMjMq2mz28KiU/view?usp=share_link"
+    },
+    {
+      "fileName": "unit4",
+      "url": "https://drive.google.com/file/d/1mZM6fxSXYMQjiwJFksD9bG_j958a5xoW/view?usp=share_link"
+    },
+    {
+      "fileName": "unit5",
+      "url": "https://docs.google.com/presentation/d/1R0_umsGWxFHsnZGT27D7tDTh36JHNuS-/edit?usp=share_link&ouid=101995589758722513198&rtpof=true&sd=true"
+    },
+    {
+      "fileName": "Text Book",
+      "url": "https://drive.google.com/file/d/1bbuN5yDE53cgvxmJPX_P-ZNk7Y7uJAQi/view?usp=share_link"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63bfd688df5909faf9537154"
+  },
+  "courseName": " Advanced Data Structures",
+  "pdfFilesArray": [
+    {
+      "fileName": "unit1",
+      "url": "https://drive.google.com/file/d/1rQS02gfgXs6QSqhdupcWTgTW_iGX0Cry/view?usp=share_link"
+    },
+    {
+      "fileName": "unit2",
+      "url": "https://drive.google.com/file/d/1_pEEIANOIXI3AusjcQbcYsJRMY23hksZ/view?usp=share_link"
+    },
+    {
+      "fileName": "unit3",
+      "url": "https://drive.google.com/file/d/1ctL_o_ObgHp2_Cb5qGTqMjMq2mz28KiU/view?usp=share_link"
+    },
+    {
+      "fileName": "unit4",
+      "url": "https://drive.google.com/file/d/1mZM6fxSXYMQjiwJFksD9bG_j958a5xoW/view?usp=share_link"
+    },
+    {
+      "fileName": "unit5",
+      "url": "https://docs.google.com/presentation/d/1R0_umsGWxFHsnZGT27D7tDTh36JHNuS-/edit?usp=share_link&ouid=101995589758722513198&rtpof=true&sd=true"
+    },
+    {
+      "fileName": "Text Book",
+      "url": "https://drive.google.com/file/d/1bbuN5yDE53cgvxmJPX_P-ZNk7Y7uJAQi/view?usp=share_link"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63bfd6a6df5909faf9537155"
+  },
+  "courseName": "Computer Networks",
+  "pdfFilesArray": [
+    {
+      "fileName": "unit1",
+      "url": "https://drive.google.com/file/d/1rQS02gfgXs6QSqhdupcWTgTW_iGX0Cry/view?usp=share_link"
+    },
+    {
+      "fileName": "unit2",
+      "url": "https://drive.google.com/file/d/1_pEEIANOIXI3AusjcQbcYsJRMY23hksZ/view?usp=share_link"
+    },
+    {
+      "fileName": "unit3",
+      "url": "https://drive.google.com/file/d/1ctL_o_ObgHp2_Cb5qGTqMjMq2mz28KiU/view?usp=share_link"
+    },
+    {
+      "fileName": "unit4",
+      "url": "https://drive.google.com/file/d/1mZM6fxSXYMQjiwJFksD9bG_j958a5xoW/view?usp=share_link"
+    },
+    {
+      "fileName": "unit5",
+      "url": "https://docs.google.com/presentation/d/1R0_umsGWxFHsnZGT27D7tDTh36JHNuS-/edit?usp=share_link&ouid=101995589758722513198&rtpof=true&sd=true"
+    },
+    {
+      "fileName": "Text Book",
+      "url": "https://drive.google.com/file/d/1bbuN5yDE53cgvxmJPX_P-ZNk7Y7uJAQi/view?usp=share_link"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63bfd6b9df5909faf9537156"
+  },
+  "courseName": "UNIX",
+  "pdfFilesArray": [
+    {
+      "fileName": "unit1",
+      "url": "https://drive.google.com/file/d/1rQS02gfgXs6QSqhdupcWTgTW_iGX0Cry/view?usp=share_link"
+    },
+    {
+      "fileName": "unit2",
+      "url": "https://drive.google.com/file/d/1_pEEIANOIXI3AusjcQbcYsJRMY23hksZ/view?usp=share_link"
+    },
+    {
+      "fileName": "unit3",
+      "url": "https://drive.google.com/file/d/1ctL_o_ObgHp2_Cb5qGTqMjMq2mz28KiU/view?usp=share_link"
+    },
+    {
+      "fileName": "unit4",
+      "url": "https://drive.google.com/file/d/1mZM6fxSXYMQjiwJFksD9bG_j958a5xoW/view?usp=share_link"
+    },
+    {
+      "fileName": "unit5",
+      "url": "https://docs.google.com/presentation/d/1R0_umsGWxFHsnZGT27D7tDTh36JHNuS-/edit?usp=share_link&ouid=101995589758722513198&rtpof=true&sd=true"
+    },
+    {
+      "fileName": "Text Book",
+      "url": "https://drive.google.com/file/d/1bbuN5yDE53cgvxmJPX_P-ZNk7Y7uJAQi/view?usp=share_link"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63bfd6cddf5909faf9537157"
+  },
+  "courseName": "Software Engineering",
+  "pdfFilesArray": [
+    {
+      "fileName": "unit1",
+      "url": "https://drive.google.com/file/d/1rQS02gfgXs6QSqhdupcWTgTW_iGX0Cry/view?usp=share_link"
+    },
+    {
+      "fileName": "unit2",
+      "url": "https://drive.google.com/file/d/1_pEEIANOIXI3AusjcQbcYsJRMY23hksZ/view?usp=share_link"
+    },
+    {
+      "fileName": "unit3",
+      "url": "https://drive.google.com/file/d/1ctL_o_ObgHp2_Cb5qGTqMjMq2mz28KiU/view?usp=share_link"
+    },
+    {
+      "fileName": "unit4",
+      "url": "https://drive.google.com/file/d/1mZM6fxSXYMQjiwJFksD9bG_j958a5xoW/view?usp=share_link"
+    },
+    {
+      "fileName": "unit5",
+      "url": "https://docs.google.com/presentation/d/1R0_umsGWxFHsnZGT27D7tDTh36JHNuS-/edit?usp=share_link&ouid=101995589758722513198&rtpof=true&sd=true"
+    },
+    {
+      "fileName": "Text Book",
+      "url": "https://drive.google.com/file/d/1bbuN5yDE53cgvxmJPX_P-ZNk7Y7uJAQi/view?usp=share_link"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63bfd6e3df5909faf9537158"
+  },
+  "courseName": "Software Project Management and Finance",
+  "pdfFilesArray": [
+    {
+      "fileName": "unit1",
+      "url": "https://drive.google.com/file/d/1rQS02gfgXs6QSqhdupcWTgTW_iGX0Cry/view?usp=share_link"
+    },
+    {
+      "fileName": "unit2",
+      "url": "https://drive.google.com/file/d/1_pEEIANOIXI3AusjcQbcYsJRMY23hksZ/view?usp=share_link"
+    },
+    {
+      "fileName": "unit3",
+      "url": "https://drive.google.com/file/d/1ctL_o_ObgHp2_Cb5qGTqMjMq2mz28KiU/view?usp=share_link"
+    },
+    {
+      "fileName": "unit4",
+      "url": "https://drive.google.com/file/d/1mZM6fxSXYMQjiwJFksD9bG_j958a5xoW/view?usp=share_link"
+    },
+    {
+      "fileName": "unit5",
+      "url": "https://docs.google.com/presentation/d/1R0_umsGWxFHsnZGT27D7tDTh36JHNuS-/edit?usp=share_link&ouid=101995589758722513198&rtpof=true&sd=true"
+    },
+    {
+      "fileName": "Text Book",
+      "url": "https://drive.google.com/file/d/1bbuN5yDE53cgvxmJPX_P-ZNk7Y7uJAQi/view?usp=share_link"
+    }
+  ]
+}]

@@ -1,0 +1,61 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  /* Banner */
+  .col-sm-12 {
+    padding: 70px 0 70px 0;
+  }
+  
+  .aboutMeBanner {
+    padding: 10px;
+    background-color: dimgrey;
+    width: 50%;
+    margin: auto;
+    color: white;
+    border-radius: 8px;
+    font-size: 5vw;
+    font-weight: 800;
+  }
+  
+  /* My picture */
+  .card {
+    width: 80%;
+    margin: auto;
+    background-color: lightgrey;
+    text-align: center;
+    font-weight: lighter;
+  }
+  .card-body {
+    background-color: lightgrey;
+  }
+  
+  /* Contact information */
+  .contactList {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+    .contactList img {
+      width: 20px;
+    }
+  
+    .contactList a {
+      color: black;
+    }
+  
+  /* Progress bars */
+  .progress {
+    margin-top: 10px;
+  }
+  
+  /* Text */
+  p {
+    font-size: 14px;
+  }
+  p.lead {
+    font-size: 18px;
+  }
+  ul.contactList {
+    font-size: 14px;
+  }

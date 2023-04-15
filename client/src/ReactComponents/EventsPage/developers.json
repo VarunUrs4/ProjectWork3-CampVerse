@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "63d32b8d1b72b3a81d3caecd"
+  },
+  "userName": "Varun Urs M S ",
+  "facebook": "https://www.facebook.com/varun.ursms/",
+  "github": "https://github.com/VarunUrs4/",
+  "instagram": "https://www.instagram.com/varun_urs_7/",
+  "linkedIN": "https://www.linkedin.com/in/varun-urs-m-s-060706225/",
+  "role": "Full Stack Developer"
+},{
+  "_id": {
+    "$oid": "63d32bb31b72b3a81d3caece"
+  },
+  "userName": "Tushar B T",
+  "facebook": "https://www.facebook.com/",
+  "github": "https://github.com/TusharBT15",
+  "instagram": "https://instagram.com/tushar._.bt?utm_medium=copy_link6",
+  "linkedIN": "https://www.linkedin.com/in/tusharbt225/",
+  "role": "Backend Designer"
+},{
+  "_id": {
+    "$oid": "63d32ca51b72b3a81d3caecf"
+  },
+  "userName": "Aditya B N ",
+  "facebook": "https://www.facebook.com/adityabn233/",
+  "github": "https://github.com/adityabn233/",
+  "instagram": "https://www.instagram.com/adityabn233/",
+  "linkedIN": "https://www.linkedin.com/in/adityabn233s06225/",
+  "role": "Frontend Developer"
+},{
+  "_id": {
+    "$oid": "63d32cf21b72b3a81d3caed0"
+  },
+  "userName": "Omar Abdulla Sheriff ",
+  "facebook": "https://www.facebook.com/varun.ursms/",
+  "github": "https://github.com/o83-program",
+  "instagram": "https://www.facebook.com/o83signin",
+  "linkedIN": "https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin",
+  "role": "Frontend Developer"
+}]

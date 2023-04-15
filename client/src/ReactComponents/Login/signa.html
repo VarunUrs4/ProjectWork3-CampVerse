@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Student Login Form</title>
+	<link rel="stylesheet" type="text/css" href="../css/signa.css">
+	<!--<link href="https://fonts.googleapis.com/css?family=Poppins:600&display=swap" rel="stylesheet">-->
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+	<script src="https://kit.fontawesome.com/a81368914c.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script>
+		function validateForm() {
+			let x = document.forms["myForm"]["fname"].value;
+			if (x == "") {
+				alert("Username must be filled out");
+				return false;
+			}
+			else if (!x.endsWith("@bmsce.ac.in")) {
+				alert("Please enter valid email id ending with '@bmsce.ac.in'");
+				return false;
+			}
+			let y = document.forms["myForm"]["password"].value;
+			let l = y.length;
+			if (l < 8) {
+				alert("Password must contain atleast 8 characters");
+				return false;
+			}
+			if ((!y.match(/[A-Z]/g)) && (!y.match(/[a-z]/g)) && (!y.match(/[0-9]/g))) {
+				alert("Password must contain atleast one Upper case character!\nPassword must contain atleast one Lower case character!\nPassword must contain atleast one Numeric character!");
+				return false;
+			}
+			if (y.match(/[A-Z]/g) && (!y.match(/[a-z]/g)) && (!y.match(/[0-9]/g))) {
+				alert("Password must contain atleast one Lower case character!\nPassword must contain atleast one Numeric character!");
+				return false;
+			}
+			if ((!y.match(/[A-Z]/g)) && y.match(/[a-z]/g) && (!y.match(/[0-9]/g))) {
+				alert("Password must contain atleast one Upper case character!\nPassword must contain atleast one Numeric character!");
+				return false;
+			}
+			if ((!y.match(/[A-Z]/g)) && (!y.match(/[a-z]/g)) && y.match(/[0-9]/g)) {
+				alert("Password must contain atleast one Upper case character!\nPassword must contain atleast one Lower case character!");
+				return false;
+			}
+			if ((!y.match(/[A-Z]/g)) && y.match(/[a-z]/g) && y.match(/[0-9]/g)) {
+				alert("Password must contain atleast one Upper case character!");
+				return false;
+			}
+			if (y.match(/[A-Z]/g) && (!y.match(/[a-z]/g)) && y.match(/[0-9]/g)) {
+				alert("Password must contain atleast one Lower case character!");
+				return false;
+			}
+			if (y.match(/[A-Z]/g) && y.match(/[a-z]/g) && (!y.match(/[0-9]/g))) {
+				alert("Password must contain atleast one Numeric character!");
+				return false;
+			}
+			else if (!y.match(/[!-/]/g)) {
+				alert("Password must contain atleast one Special character!");
+				return false;
+			}
+		}
+	</script>
+</head>
+
+<body>
+	<img class="wave" src="../Images/wave.png">
+	<div class="container">
+		<div class="img">
+			<img src="../Images/bg.svg">
+		</div>
+		<div class="login-content">
+			<form name="myForm" action="/PROJECTFINAL3/StudentDashboard.html" onsubmit="return validateForm()"
+				method="post">
+				<img src="../Images/avatars.png">
+				<h2 class="title">LOGIN</h2>
+				<div class="input-div one">
+					<div class="i">
+						<i class="fas fa-user"></i>
+					</div>
+					<div class="div">
+						<h5> Username</h5>
+						<input type="text" class="input" name="fname">
+					</div>
+				</div>
+				<div class="input-div pass">
+					<div class="i">
+						<i class="fas fa-lock"></i>
+					</div>
+					<div class="div">
+						<h5>Password</h5>
+						<input type="password" class="input" name="password">
+					</div>
+				</div>
+				<a href="#">Forgot Password?</a>
+				<input type="submit" class="btn" value="Login">
+			</form>
+		</div>
+	</div>
+	<script type="text/javascript" src="signa.js"></script>
+</body>
+
+</html>
